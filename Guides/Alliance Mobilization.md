@@ -2,6 +2,8 @@
 - [Tier Rankings](#tier-rankings)
   - [Promotion](#promotion)
   - [Demotion](#demotion)
+- [Rewards](#rewards)
+  - [Alliance Monuments](#alliance-monuments)
 - [General Things to be aware of](#general-things-to-be-aware-of)
 - [Tasks In order of recommended priority (especially for F2P players...)](#tasks-in-order-of-recommended-priority-especially-for-f2p-players)
   - [Gather Resources](#gather-resources)
@@ -16,18 +18,16 @@
 - Who
   - Every Alliance with > 15 members
   - Governors within that alliance with a Town Center (TC) level > 10 
-  - Everyone in the alliance who  meets the below criteria is able to participate and contribute to this event
 - What
   - The point of the event is to perform tasks to earn points for your alliance in order to compete with other alliances
 - Why
 -- Completing tasks earns points for the entire alliance and allows us the chance to be promoted to the next rank
--- Three types of Rewards can be earned
 - When
   - Every 2 weeks
   - Starts on a Monday (00:00) and ends on a Saturday (24:00) (6 days)
 - How
   - Tasks can be accepted via the events page
-  - ![alt text](image.png)
+![alt text](image.png)
   - Tasks fall into 2 categories,
     - Exclusive Tasks: Available only to you. They're the top 2 tasks you see on the page. These tasks can be refreshed by you as many times as you like.
     - Alliance Tasks: Available to everyone in the alliance. Can only be refreshed by R4 and above. 
@@ -43,6 +43,11 @@
 ## Promotion
 - Alliances that reach their level 8 milestone and  
 ## Demotion
+
+# Rewards
+## Alliance Monuments
+- Accessible via clicking on giftbox on the event page
+- Points are accumlated as the alliance completes tasks and each tier provides rewards
 
 # General Things to be aware of
 - Switching Alliances will forfeit one's right to participate if done in the middle of the event
