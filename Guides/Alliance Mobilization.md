@@ -27,9 +27,11 @@
   - Starts on a Monday (00:00) and ends on a Saturday (24:00) (6 days)
 - How
   - Tasks can be accepted via the events page
-  - <details><summary>Need Help finding it?</summary>
-    - ![alt text](image.png)
-    - </details>
+> [!NOTE]
+> <details><summary>Need Help finding it?</summary>
+
+> </details>
+
   - Tasks fall into 2 categories,
     - Exclusive Tasks: Available only to you. They're the top 2 tasks you see on the page. These tasks can be refreshed by you as many times as you like.
     - Alliance Tasks: Available to everyone in the alliance. Can only be refreshed by R4 and above. 
