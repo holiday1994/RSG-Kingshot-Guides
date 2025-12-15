@@ -15,15 +15,14 @@
 - [Sources for further reading:](#sources-for-further-reading)
 
 # General Tips
+- There are 2 different trap times that are scheduled via R4/R5. 
+  - You can only participate in 1 trap so choose the one that fits your schedule best. 
 - Lethality is the most important stat for Bear Hunt
 - The bear itself doesn’t inflict damage; the event is entirely focused on maximizing how much damage players can deal to it.
 - To maximize damage, only specific heroes should be chosen when joining a rally—most importantly the Joiner Hero. 
   - This is the hero placed in the first slot of each squad. A rally can gain up to four additional skills from joiners, with each member contributing one. 
   - If more than four joiners are present, only the heroes with the highest level expedition skills will be counted.
-> [!CAUTION] For this reason, it’s crucial to choose the right heroes when joining a rally and avoid unintentionally replacing a lethality or attack‑boosting skill with another ability, such as boosting defense 
-- There are 2 different trap times that are scheduled via R4/R5. 
-> [!IMPORTANT] You can only participate in 1 trap so choose the one that fits your schedule best. 
-
+    - For this reason, it’s crucial to choose the right heroes when joining a rally and avoid unintentionally replacing a lethality or attack‑boosting skill with another ability, such as boosting defense 
 # Leading a Rally
 - 3 Best Heroes, prioritizing heroes with lethality or attack boosting expedition skills
 
@@ -43,9 +42,11 @@
 ![alt text](image-4.png)
 
 ## Not Allowed Squad Combinations for Rally Joiners 
-> [!WARNING] Use of any of these will get you kicked from the rally.
+> [!WARNING] 
+> Use of any of these will get you kicked from the rally.
 
-> [!CAUTION] These joiner heroes are disallowed due to the fact they typically have higher level skills than other heroes, which can unintentionally replace a lethality or attack boosting skill and result in significantly reduced damage.
+> [!CAUTION] 
+> These joiner heroes are disallowed due to the fact they typically have higher level skills than other heroes, which can unintentionally replace a lethality or attack boosting skill and result in significantly reduced damage.
 ## Any Blue Hero as Joiner
 ![alt text](image-6.png)
 ## Diana as Joiner
