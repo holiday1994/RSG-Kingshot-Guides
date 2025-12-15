@@ -6,7 +6,7 @@
     - [Chenko Only](#chenko-only)
     - [Amane Only](#amane-only)
     - [Yeonwoo Only](#yeonwoo-only)
-    - [Chenko + 2 others](#chenko--2-others)
+    - [Any of the above + 2 others](#any-of-the-above--2-others)
     - [Troops Only](#troops-only)
   - [Not Allowed Squad Combinations for Rally Joiners](#not-allowed-squad-combinations-for-rally-joiners)
   - [Any Blue Hero as Joiner](#any-blue-hero-as-joiner)
@@ -35,7 +35,7 @@
 ![alt text](image-5.png)
 ### Yeonwoo Only
 ![alt text](image-1.png)
-### Chenko + 2 others
+### Any of the above + 2 others
 ![alt text](image-2.png)
 > [!IMPORTANT] 
 > You can select anyone you like as #2 and #3 heroes
