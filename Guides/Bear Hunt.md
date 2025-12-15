@@ -37,7 +37,8 @@
 ![alt text](image-1.png)
 ### Chenko + 2 others
 ![alt text](image-2.png)
-> [!IMPORTANT] Note: You can select anyone you like as #2 and #3 heroes
+> [!IMPORTANT] 
+> You can select anyone you like as #2 and #3 heroes
 ### Troops Only
 ![alt text](image-4.png)
 
